@@ -1,4 +1,4 @@
 First_Repo
 ==========
 
-Prints hello world
+It prints hello world
